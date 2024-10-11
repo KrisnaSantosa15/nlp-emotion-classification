@@ -60,6 +60,8 @@ This model achieves:
 
 These results underscore the model's ability to generalize well to unseen data, striking a balance between fitting the training data and avoiding overfitting.
 
+![Model Performance](accuracy.png)
+
 ## 🎯 Future Enhancements
 
 - Experiment with different architectures (e.g., transformers) for potential performance improvements.
